@@ -14,7 +14,7 @@ The key features of contact management system are listed below:
     
  
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/Harshbaisla/Miniproject-16-April-/blob/main/4_Images/swot.png)
+![SWOT Analysis](https://github.com/Harshbaisla/Miniproject-16-April-/blob/main/4_Images/SWOT.png)
 
 # 4W&#39;s and 1&#39;H
 
