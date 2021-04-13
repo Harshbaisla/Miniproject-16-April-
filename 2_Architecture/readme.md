@@ -7,5 +7,5 @@
 # Flowchart Daigram:
 
 <p align="center">
-  <img src="https://github.com/SarthakVerma26/L-AND-T_mini-project/blob/main/2_Architecture/flow.png">
+  <img src=https://github.com/Harshbaisla/Miniproject-16-April-/blob/main/2_Architecture/flowchart.png
 </p>
