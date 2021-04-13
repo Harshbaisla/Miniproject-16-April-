@@ -30,7 +30,9 @@
   <img src=https://github.com/Harshbaisla/Miniproject-16-April-/blob/main/4_Images/contact-manager.png
 </p>
 <br>
-TypingGame, as its name reveals, is a game designed to improve one's typing skills, with randomly-generated words to be exactly typed. When playing, one will accompanied by the melody from Croatian Rhapsody. As a project assigned in the C Language for StepIn Program, it is an individual project for non-comercial purposes. This system allows you to enjoy the funny typing game, as well as to improve your typing speed and correct ratio.
+Mini Project in C Contact Management System is a simple console application without graphics. It is similar to the contact manager in cell phones. In this  project, you can add, view, edit, search and delete contacts. All added and edited records are saved in a file.
+
+You can list contacts by name, phone no., address and email. File handling has been used to record all data. I have used data structure to store the user name, email and contact. Overall, understanding the simple source code of this project will teach you how to add, edit, search, list and remove data using file.
 
 ### Built With
 
@@ -39,11 +41,11 @@ This section should list any major frameworks that you built your project using.
 * [VS Code](https://code.visualstudio.com/)
 
 
-<!-- How to play -->
-## How To Play
-1.Select one of the difficulty level you want.<br><br>
-2.After selecting the level the game gets started and in the screen there is a shower of randomly arranged alphabetic words, the user have to type down the words before it goes off the screen.<br><br>
-3.Whenever a word touch the ground, game is over. And your score will be displayed at the end. (images available below)<br>
+<!-- How to Manage -->
+## How To Manage
+1.Select one of the name or number you want to save.<br><br>
+2.After selecting the format you want to save click on the save button and move forward. now when data is saved it will ask again to show information inside the system. Now it depends upon the user what he or she wants to access. <br><br>
+3.Whenever a save button is pressed the contact is saved inside the system. (images available below)<br>
 
 <!-- Images -->
 ## Images
