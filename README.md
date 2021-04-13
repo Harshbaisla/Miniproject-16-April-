@@ -50,13 +50,13 @@ This section should list any major frameworks that you built your project using.
 <!-- Images -->
 ## Images
 <p align="center">
-  <img src="https://github.com/SarthakVerma26/L-AND-T_mini-project/blob/main/4_images/img1.png">
+  <img src=https://github.com/Harshbaisla/Miniproject-16-April-/blob/main/4_Images/main-menu.png
 </p>
 <p align="center">
-  <img src="https://github.com/SarthakVerma26/L-AND-T_mini-project/blob/main/4_images/img2.png">
+  <img src=
 </p>
 <p align="center">
-  <img src="https://github.com/SarthakVerma26/L-AND-T_mini-project/blob/main/4_images/img3.png">
+  <img src=
 </p>
 
 
