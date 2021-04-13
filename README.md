@@ -43,9 +43,9 @@ This section should list any major frameworks that you built your project using.
 
 <!-- How to Manage -->
 ## How To Manage
-1.Select one of the name or number you want to save.<br><br>
-2.After selecting the format you want to save click on the save button and move forward. now when data is saved it will ask again to show information inside the system. Now it depends upon the user what he or she wants to access. <br><br>
-3.Whenever a save button is pressed the contact is saved inside the system. (images available below)<br>
+1.Select one of the option or number you want to access.<br><br>
+2.After selecting the format you want to save click on the save button and move forward. Now when data is saved it will ask again to show information inside the system, now it depends upon the user what he or she wants to access. <br><br>
+3.Whenever a option is selected the contact is saved inside the system. (images available below)<br>
 
 <!-- Images -->
 ## Images
