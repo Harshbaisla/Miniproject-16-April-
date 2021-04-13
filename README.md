@@ -27,7 +27,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-  <img src="https://github.com/SarthakVerma26/L-AND-T_mini-project/blob/main/4_images/logo.png">
+  <img src=https://github.com/Harshbaisla/Miniproject-16-April-/blob/main/4_Images/contact-manager.png
 </p>
 <br>
 TypingGame, as its name reveals, is a game designed to improve one's typing skills, with randomly-generated words to be exactly typed. When playing, one will accompanied by the melody from Croatian Rhapsody. As a project assigned in the C Language for StepIn Program, it is an individual project for non-comercial purposes. This system allows you to enjoy the funny typing game, as well as to improve your typing speed and correct ratio.
