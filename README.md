@@ -12,7 +12,7 @@
       </ul>
     </li>
     <li> 
-      <a href="#How To Manage">How To Play</a>
+      <a href="#How To Manage">How To Manage</a>
     </li>
     <li> 
       <a href="#Images">Images</a>
