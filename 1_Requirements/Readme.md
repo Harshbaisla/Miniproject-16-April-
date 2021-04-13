@@ -1,14 +1,16 @@
 # Requirements
 ## Introduction
- * TypingGame, as its name reveals, is a game designed to improve one's typing skills, with randomly-generated words to be exactly typed. When playing, one will accompanied by the melody from Croatian Rhapsody. As a project assigned in the C Language for StepIn Program, it is an individual project for non-comercial purposes. This system allows you to enjoy the funny typing game, as well as to improve your typing speed and correct ratio.
+ * Mini Project in C Contact Management System is a simple console application without graphics. It is similar to the contact manager in cell phones. In this  project, you can add, view, edit, search and delete contacts. All added and edited records are saved in a file.The source code for contact management system project in C is complete and totally error-free. It is short and simple – just over 200 lines.
  * This topic was chosen because it gives me an opportunity to implement and understand multiple C programming concepts.
 
 ## Explanation:
-* Typing Game have few features like:
-    * Count the number of words the user typed.
-    * Count the numbers of letters typed as well.
-    * Calculate the speed at which rate the user type words per minute.
-    * The alphabets are arranged in a randomly manner to form a word.
+The key features of contact management system are listed below:
+
+* Add new contacts: with information such as name, phone number, address, and email
+* List all contacts: lists all the contacts stored in file with their respective contact details
+* Search contacts: based on name and phone number
+* Edit contacts: edit information given while adding the contacts – name, phone number, address, and email
+* Delete contacts: deletes contacts from file
     
  
 ## SWOT ANALYSIS
@@ -17,34 +19,34 @@
 # 4W&#39;s and 1&#39;H
 
 ## Who:
-* Users who want to boost up there typing speed and likes word games.
+* Users who want to keep the records of all the employees as their contact numbers,names and address.
 
 ## What:
-* Its a game which throw the randomly arranged words and we have to type down the words before it goes off the screen. It uses the different concepts of C language as well as a bit of graphics.
+* Its a type of management system where feilds are thier to type contact number of different users and save them so that there is a record among tables of different people. It uses the different concepts of C language but no graphics.
 
 ## When:
 * This project started on  first week of April 2021 and will be completed by third week of April 2021. 
 
 ## Where:
-* This project was started  in Uttarakhand, India. 
+* This project was started  in Faridabad, India. 
 
 ## How:
-* I have interest in word games so then I decided to make one using my skills in C language.
+* I have interest in managing records so then I decided to make one using my skills in C language.
 
 # Detail requirements
 ## High Level Requirements: 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
-| HR01 | User shall be able to restart the game again if lost | Techincal | Implemented | 
-| HR02 | User shall be able to read there score after a user lost the game  | Techincal | Implemented |
-| HR03 | User shall be able to select the difficulty level at the beginning of the game | Techincal | Implemented |
-| HR04 | User shall be able to enter his or her full name | Techincal | Future |
-| HR05 | User shall be able to see his/her entire scorecard of all the chances | Techincal | Future |
+| HR01 | User shall be able to restart the app again if lost | Techincal | Implemented | 
+| HR02 | User shall be able to read there information after a user done changes  | Techincal | Implemented |
+| HR03 | User shall be able to select the information he or she wants to feed inside that system | Techincal | Implemented |
+| HR04 | User shall be able to enter the name or phone number of the person| Techincal | Future |
+| HR05 | User shall be able to see his/her entire changes in one go | Techincal | Future |
 
 ##  Low level Requirements:
  
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
-| LR01 | New game or restarting the game can only done if the user lost. User  cannot start new game in between of the game. | HR01 | Implemented|
-| LR02 | Reading scorecard should be possible in 2 ways, first is when the user is playing his chance and second when the user completely lost the game. | HR02 | Implemented |
-| LR03 | If user selects an invalid difficulty level then "Invalid Input" message should be displayed | HR03 | Implemented |
+| LR01 | Once the changes are saved user can be able to review the changes but not at the time of entering data of somebody| HR01 | Implemented|
+| LR02 | Reading information should be possible in 2 ways, first is when the user has completed giving information and second when the user completely provided the information and saved it. | HR02 | Implemented |
+| LR03 | If user selects an invalid input in providing information then "Invalid Input" message should be displayed | HR03 | Implemented |
